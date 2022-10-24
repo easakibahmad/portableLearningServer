@@ -1,0 +1,26 @@
+[
+    {
+      "id": "01",
+      "name": "Artificial Intelligence"
+    },
+    {
+      "id": "02",
+      "name": "Javascript"
+    },
+    {
+      "id": "03",
+      "name": "Data Structure and Algorithm"
+    },
+    {
+      "id": "04",
+      "name": "JAVA Programming"
+    },
+    {
+      "id": "05",
+      "name": "DBMS"
+    },
+    {
+      "id": "06",
+      "name": "Operating System"
+    }
+  ]

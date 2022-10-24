@@ -1,0 +1,242 @@
+[
+    {
+      "courseID": "6356f0d8e120fd06208934df",
+      "coursePhotoURL": "https://m.economictimes.com/thumb/msid-92062293,width-1200,height-900,resizemode-4,imgsize-57232/from-diagnosis-to-treatment-from-prevention-to-therapeutics-artificial-intelligence-has-made-many-things-possible-which-had-been-absolutely-unachievable-before-.jpg",
+      "review": "very good",
+      "courseName": "Artificial Intelligence",
+      "instructor": {
+        "name":"Nicholson Henderson",
+        "instructorPhotoURL": "https://image.shutterstock.com/image-photo/im-not-just-fashion-business-260nw-1216577038.jpg"
+      },
+      "rating": 4.5,
+      "identity": "01",
+      "totalStudents": 5400,
+      "currentPrice": 296,
+      "previousPrice": 500,
+      "courseDetails": "Do your non-player characters (NPCs) lack drive and ambition?  Are they slow, stupid and constantly banging their heads against the wall? Then this course is for you.  Join Penny as she explains, demonstrates and assists you in creating your very own NPCs in Unity with C#. All you need is a sound knowledge of Unity, C# and the ability to add two numbers together. This course uses Unity Version 2021.3 LTS. In this course, Penny reveals the most popular AI techniques used for creating believable character behaviour in games using her internationally acclaimed teaching style and knowledge from over 30 years working with games, graphics and having written two award winning books on games AI. Throughout, you will follow along with hands-on workshops designed to teach you about the fundamental AI techniques used in today's games.  You'll join in as NPCs are programmed to chase, patrol, shoot, race, crowd and much more.",
+      "students": [
+        {
+          "name": "Bird Harper"
+        },
+        {
+          "name": "Hopkins Cooley"
+        },
+        {
+          "name": "Sandy Ferrell"
+        },
+        {
+          "name": "Washington English"
+        },
+        {
+          "name": "Aisha Mcclure"
+        },
+        {
+          "name": "Alfreda Lyons"
+        },
+        {
+          "name": "Howard Cortez"
+        }
+      ],
+      "studentFeedback": "You won't find a better course anywhere else, here you can learn a lot of things very easily."
+    },
+    {
+      "courseID": "6356f0d86a1f78c4d9cbf217",
+      "coursePhotoURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjplyu-rILMIaKhSihUMbqrTTXseXvpJnJ_A&usqp=CAU",
+      "review": "very good",
+      "courseName": "JS Advanced",
+      "instructor": {
+        "name":"Olga Knapp",
+        "instructorPhotoURL": "https://media.istockphoto.com/photos/smiling-indian-man-looking-at-camera-picture-id1270067126?k=20&m=1270067126&s=612x612&w=0&h=ZMo10u07vCX6EWJbVp27c7jnnXM2z-VXLd-4maGePqc="
+      },
+      "rating": 5,
+      "identity": "02",
+      "totalStudents": 5600,
+      "currentPrice": 228,
+      "previousPrice": 486,
+      "courseDetails": "I am a Computer Science graduate highly rated instructor with a rating of 4.3 and more than 200k students on Udemy, I have been part of the corporate circle since my college days. In my early days, I was part of a startup team delivering production grid android apps. Currently, I am a lead developer at EdYoda. I’m responsible for the entire front-end development & integration with the back-end. React, Python, Django is my areas of expertise. I have been delivering corporate training for Android, React, JavaScript, Python & Django. I have an eye for detail which makes me suited for delivering a finished product. I’m a fitness freak & working out is the favorite thing to do in my spare time. I want everyone should enjoy learning and I have shared my knowledge that gonna be helpful for developers.",
+    "students": [
+      {
+        "name": "Brown Newton"
+      },
+      {
+        "name": "Riley Trevino"
+      },
+      {
+        "name": "Herring Walker"
+      },
+      {
+        "name": "Michele Franks"
+      },
+      {
+        "name": "Terry Watts"
+      },
+      {
+        "name": "Nielsen Mccullough"
+      },
+      {
+        "name": "Beryl Pace"
+      }
+    ],
+    "studentFeedback": "It's the best of the best courses put together very simply."
+    },
+    {
+      "courseID": "6356f0d8d3487704dd7b2878",
+      "coursePhotoURL": "https://www.passionateinmarketing.com/wp-content/uploads/2021/10/maxresdefault-199.jpg",
+      "review": "awesome",
+      "courseName": "Introductory Algorithm",
+      "instructor": {
+        "name":"Lester Vargas",
+        "instructorPhotoURL": "https://images.everydayhealth.com/images/mens-health/6-skincare-tips-men-should-always-follow-peter-kraus-00-722x406.jpg"
+      },
+      "rating": 4,
+      "identity": "03",
+      "totalStudents": 6000,
+      "currentPrice": 216,
+      "previousPrice": 455,
+      "courseDetails": "Algorithms can be expressed as natural languages, programming languages, pseudocode, flowcharts and control tables. Natural language expressions are rare, as they are more ambiguous. Programming languages are normally used for expressing algorithms executed by a computer. Algorithms use an initial input along with a set of instructions. The input is the initial data needed to make decisions and can be represented in the form of numbers or words. The input data gets put through a set of instructions, or computations, which can include arithmetic and decision-making processes. The output is the last step in an algorithm and is normally expressed as more data. For example, a search algorithm takes a search query as input and runs it through a set of instructions for searching through a database for relevant items to the query. Automation software acts as another example of algorithms, as automation follows a set of rules to complete tasks. Many algorithms make up automation software, and they all work to automate a given process.",
+    "students": [
+      {
+        "name": "Briggs Wall"
+      },
+      {
+        "name": "Foley Mejia"
+      },
+      {
+        "name": "Douglas Cote"
+      },
+      {
+        "name": "Esmeralda Cunningham"
+      },
+      {
+        "name": "Roslyn Wagner"
+      },
+      {
+        "name": "Hardin Adkins"
+      },
+      {
+        "name": "Delgado Byers"
+      }
+    ],
+    "studentFeedback": "You can take this course to get better as per your wish. It works for me, I hope you will also benefit from it."
+    },
+    {
+      "courseID": "6356f0d8ad12ec0e49f115a7",
+      "coursePhotoURL": "https://blog.logrocket.com/wp-content/uploads/2021/05/java-kotlin-logo.png",
+      "review": "good",
+      "courseName": "JAVA Android Programming",
+      "instructor": {
+        "name":"Fitzpatrick Giles",
+        "instructorPhotoURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs8ZBWwYUv_8yCPG6gGJesd1Y6kEpZMj9kAxOkcWgRV9bDlE2rhFrQPl_gFPZ4ie8KpZE&usqp=CAU"
+      },
+      "rating": 4,
+      "identity": "04",
+      "totalStudents": 7100,
+      "currentPrice": 203,
+      "previousPrice": 454,
+      "courseDetails": "Android tutorial or Android Studio tutorial covers basic and advanced concepts of android technology. Our Android development tutorial is developed for beginners and professionals. Android is a complete set of software for mobile devices such as tablet computers, notebooks, smartphones, electronic book readers, set-top boxes etc. It contains a linux-based Operating System, middleware and key mobile applications. It can be thought of as a mobile operating system. But it is not limited to mobile only. It is currently used in various devices such as mobiles, tablets, televisions etc.",
+    "students": [
+      {
+        "name": "Norris William"
+      },
+      {
+        "name": "Janis Allison"
+      },
+      {
+        "name": "Myers Morgan"
+      },
+      {
+        "name": "Mayer Erickson"
+      },
+      {
+        "name": "John Warner"
+      },
+      {
+        "name": "Luna Coleman"
+      },
+      {
+        "name": "Valeria Guy"
+      }
+    ],
+    "studentFeedback": "Best course for everyone. Here you can learn a lot."
+    },
+    {
+      "courseID": "6356f0d8c3dd159842d61950",
+      "coursePhotoURL": "https://miro.medium.com/max/1400/1*iDcgUCw_MtRSuKLBGEaJ4Q.jpeg",
+      "review": "awesome",
+      "courseName": "Database Management",
+      "instructor": {
+        "name":"Muriel Raymond",
+        "instructorPhotoURL": "https://c4.wallpaperflare.com/wallpaper/35/820/947/men-model-man-suit-hd-wallpaper-preview.jpg"
+      },
+      "rating": 3.5,
+      "identity": "05",
+      "totalStudents": 7000,
+      "currentPrice": 336,
+      "previousPrice": 454,
+      "courseDetails": "DBMS Tutorial provides basic and advanced concepts of Database. Our DBMS Tutorial is designed for beginners and professionals both. Database management system is software that is used to manage the database. Our DBMS Tutorial includes all topics of DBMS such as introduction, ER model, keys, relational model, join operation, SQL, functional dependency, transaction, concurrency control, etc.",
+    "students": [
+      {
+        "name": "Viola Lara"
+      },
+      {
+        "name": "Berg Spence"
+      },
+      {
+        "name": "York Dawson"
+      },
+      {
+        "name": "Davis Lowery"
+      },
+      {
+        "name": "Deena Short"
+      },
+      {
+        "name": "Eugenia Riley"
+      },
+      {
+        "name": "Ward Whitley"
+      }
+    ],
+    "studentFeedback": "Here you will find your lost inspiration and motivation to move forward."
+    },
+    {
+      "courseID": "6356f0d8f18e28e5001ae3c1",
+      "coursePhotoURL": "https://www.educative.io/v2api/editorpage/6292006289539072/image/5581777484644352",
+      "review": "excellent",
+      "courseName": "Operating System Fundamentals",
+      "instructor": {
+        "name":"Lyons Stuart",
+        "instructorPhotoURL": "https://media.istockphoto.com/photos/smiling-mixed-race-mature-man-on-grey-background-picture-id1319763895?k=20&m=1319763895&s=612x612&w=0&h=kdi1vWYAjSj4jOL5UPFPERsfid2gPkwZN8TCYWycmnA="
+      },
+      "rating": 4.5,
+      "identity": "06",
+      "totalStudents": 7300,
+      "currentPrice": 316,
+      "previousPrice": 499,
+      "courseDetails": "An Operating System (OS) is an interface between a computer user and computer hardware. An operating system is a software which performs all the basic tasks like file management, memory management, process management, handling input and output, and controlling peripheral devices such as disk drives and printers. An operating system is software that enables applications to interact with a computer's hardware. The software that contains the core components of the operating system is called the kernel. The primary purposes of an Operating System are to enable applications (spftwares) to interact with a computer's hardware and to manage a system's hardware and software resources.",
+    "students": [
+      {
+        "name": "Rivas Walsh"
+      },
+      {
+        "name": "Stokes Swanson"
+      },
+      {
+        "name": "Wilkinson Levine"
+      },
+      {
+        "name": "Winnie Baldwin"
+      },
+      {
+        "name": "Booker Jacobs"
+      },
+      {
+        "name": "Walter Bentley"
+      },
+      {
+        "name": "Evans Weiss"
+      }
+    ],
+    "studentFeedback": "This platform will give you more than your imagination, simply best."
+    }
+  ]
