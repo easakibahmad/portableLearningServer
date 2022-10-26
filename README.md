@@ -16,3 +16,9 @@ I have installed express js and wrote some code for my data
 # cores used
 
 I installed it from node server
+
+
+
+# vercel used
+
+it is main part where i hosted my server site.
