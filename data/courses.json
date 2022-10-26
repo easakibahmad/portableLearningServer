@@ -14,29 +14,7 @@
       "currentPrice": 296,
       "previousPrice": 500,
       "courseDetails": "Do your non-player characters (NPCs) lack drive and ambition?  Are they slow, stupid and constantly banging their heads against the wall? Then this course is for you.  Join Penny as she explains, demonstrates and assists you in creating your very own NPCs in Unity with C#. All you need is a sound knowledge of Unity, C# and the ability to add two numbers together. This course uses Unity Version 2021.3 LTS. In this course, Penny reveals the most popular AI techniques used for creating believable character behaviour in games using her internationally acclaimed teaching style and knowledge from over 30 years working with games, graphics and having written two award winning books on games AI. Throughout, you will follow along with hands-on workshops designed to teach you about the fundamental AI techniques used in today's games.  You'll join in as NPCs are programmed to chase, patrol, shoot, race, crowd and much more.",
-      "students": [
-        {
-          "name": "Bird Harper"
-        },
-        {
-          "name": "Hopkins Cooley"
-        },
-        {
-          "name": "Sandy Ferrell"
-        },
-        {
-          "name": "Washington English"
-        },
-        {
-          "name": "Aisha Mcclure"
-        },
-        {
-          "name": "Alfreda Lyons"
-        },
-        {
-          "name": "Howard Cortez"
-        }
-      ],
+      "students":"Bird Harper",
       "studentFeedback": "You won't find a better course anywhere else, here you can learn a lot of things very easily."
     },
     {
@@ -53,30 +31,8 @@
       "totalStudents": 5600,
       "currentPrice": 228,
       "previousPrice": 486,
-      "courseDetails": "I am a Computer Science graduate highly rated instructor with a rating of 4.3 and more than 200k students on Udemy, I have been part of the corporate circle since my college days. In my early days, I was part of a startup team delivering production grid android apps. Currently, I am a lead developer at EdYoda. I’m responsible for the entire front-end development & integration with the back-end. React, Python, Django is my areas of expertise. I have been delivering corporate training for Android, React, JavaScript, Python & Django. I have an eye for detail which makes me suited for delivering a finished product. I’m a fitness freak & working out is the favorite thing to do in my spare time. I want everyone should enjoy learning and I have shared my knowledge that gonna be helpful for developers.",
-    "students": [
-      {
-        "name": "Brown Newton"
-      },
-      {
-        "name": "Riley Trevino"
-      },
-      {
-        "name": "Herring Walker"
-      },
-      {
-        "name": "Michele Franks"
-      },
-      {
-        "name": "Terry Watts"
-      },
-      {
-        "name": "Nielsen Mccullough"
-      },
-      {
-        "name": "Beryl Pace"
-      }
-    ],
+      "courseDetails": "I am a Computer Science graduate highly rated instructor with a rating of 4.3 and more than 200k students on PORTABLE LEARNING, I have been part of the corporate circle since my college days. In my early days, I was part of a startup team delivering production grid android apps. Currently, I am a lead developer at EdYoda. I’m responsible for the entire front-end development & integration with the back-end. React, Python, Django is my areas of expertise. I have been delivering corporate training for Android, React, JavaScript, Python & Django. I have an eye for detail which makes me suited for delivering a finished product. I’m a fitness freak & working out is the favorite thing to do in my spare time. I want everyone should enjoy learning and I have shared my knowledge that gonna be helpful for developers.",
+    "students" :"Brown Newton",
     "studentFeedback": "It's the best of the best courses put together very simply."
     },
     {
@@ -94,29 +50,7 @@
       "currentPrice": 216,
       "previousPrice": 455,
       "courseDetails": "Algorithms can be expressed as natural languages, programming languages, pseudocode, flowcharts and control tables. Natural language expressions are rare, as they are more ambiguous. Programming languages are normally used for expressing algorithms executed by a computer. Algorithms use an initial input along with a set of instructions. The input is the initial data needed to make decisions and can be represented in the form of numbers or words. The input data gets put through a set of instructions, or computations, which can include arithmetic and decision-making processes. The output is the last step in an algorithm and is normally expressed as more data. For example, a search algorithm takes a search query as input and runs it through a set of instructions for searching through a database for relevant items to the query. Automation software acts as another example of algorithms, as automation follows a set of rules to complete tasks. Many algorithms make up automation software, and they all work to automate a given process.",
-    "students": [
-      {
-        "name": "Briggs Wall"
-      },
-      {
-        "name": "Foley Mejia"
-      },
-      {
-        "name": "Douglas Cote"
-      },
-      {
-        "name": "Esmeralda Cunningham"
-      },
-      {
-        "name": "Roslyn Wagner"
-      },
-      {
-        "name": "Hardin Adkins"
-      },
-      {
-        "name": "Delgado Byers"
-      }
-    ],
+    "students":"Briggs Wall",
     "studentFeedback": "You can take this course to get better as per your wish. It works for me, I hope you will also benefit from it."
     },
     {
@@ -134,29 +68,7 @@
       "currentPrice": 203,
       "previousPrice": 454,
       "courseDetails": "Android tutorial or Android Studio tutorial covers basic and advanced concepts of android technology. Our Android development tutorial is developed for beginners and professionals. Android is a complete set of software for mobile devices such as tablet computers, notebooks, smartphones, electronic book readers, set-top boxes etc. It contains a linux-based Operating System, middleware and key mobile applications. It can be thought of as a mobile operating system. But it is not limited to mobile only. It is currently used in various devices such as mobiles, tablets, televisions etc.",
-    "students": [
-      {
-        "name": "Norris William"
-      },
-      {
-        "name": "Janis Allison"
-      },
-      {
-        "name": "Myers Morgan"
-      },
-      {
-        "name": "Mayer Erickson"
-      },
-      {
-        "name": "John Warner"
-      },
-      {
-        "name": "Luna Coleman"
-      },
-      {
-        "name": "Valeria Guy"
-      }
-    ],
+    "students":"Norris William",
     "studentFeedback": "Best course for everyone. Here you can learn a lot."
     },
     {
@@ -174,29 +86,7 @@
       "currentPrice": 336,
       "previousPrice": 454,
       "courseDetails": "DBMS Tutorial provides basic and advanced concepts of Database. Our DBMS Tutorial is designed for beginners and professionals both. Database management system is software that is used to manage the database. Our DBMS Tutorial includes all topics of DBMS such as introduction, ER model, keys, relational model, join operation, SQL, functional dependency, transaction, concurrency control, etc.",
-    "students": [
-      {
-        "name": "Viola Lara"
-      },
-      {
-        "name": "Berg Spence"
-      },
-      {
-        "name": "York Dawson"
-      },
-      {
-        "name": "Davis Lowery"
-      },
-      {
-        "name": "Deena Short"
-      },
-      {
-        "name": "Eugenia Riley"
-      },
-      {
-        "name": "Ward Whitley"
-      }
-    ],
+    "students": "Viola Lara",
     "studentFeedback": "Here you will find your lost inspiration and motivation to move forward."
     },
     {
@@ -214,29 +104,7 @@
       "currentPrice": 316,
       "previousPrice": 499,
       "courseDetails": "An Operating System (OS) is an interface between a computer user and computer hardware. An operating system is a software which performs all the basic tasks like file management, memory management, process management, handling input and output, and controlling peripheral devices such as disk drives and printers. An operating system is software that enables applications to interact with a computer's hardware. The software that contains the core components of the operating system is called the kernel. The primary purposes of an Operating System are to enable applications (spftwares) to interact with a computer's hardware and to manage a system's hardware and software resources.",
-    "students": [
-      {
-        "name": "Rivas Walsh"
-      },
-      {
-        "name": "Stokes Swanson"
-      },
-      {
-        "name": "Wilkinson Levine"
-      },
-      {
-        "name": "Winnie Baldwin"
-      },
-      {
-        "name": "Booker Jacobs"
-      },
-      {
-        "name": "Walter Bentley"
-      },
-      {
-        "name": "Evans Weiss"
-      }
-    ],
+    "students":"Rivas Walsh",
     "studentFeedback": "This platform will give you more than your imagination, simply best."
     }
   ]
