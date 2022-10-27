@@ -23,6 +23,13 @@ app.get('/courseTypes/:id',(req, res)=>{
 })
 
 
+app.get('/checkOut/:id',(req, res)=>{
+    const id = req.params.id
+    const selectedCourses = courses.filter(n => n.courseID === id)
+    res.send(selectedCourses)
+})
+
+
 
 app.get('/courses', (req, res)=>{
     res.send(courses)
